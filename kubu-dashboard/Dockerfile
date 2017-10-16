@@ -1,1 +1,1 @@
-image: docker.io/ist0ne/kubernetes-dashboard-amd64
+FROM gcr.io/google_containers/kubernetes-dashboard-amd64:v1.5.1
