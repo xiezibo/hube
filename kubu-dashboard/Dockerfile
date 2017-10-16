@@ -1,0 +1,1 @@
+image: docker.io/ist0ne/kubernetes-dashboard-amd64
